@@ -1,3 +1,3 @@
-const userList = ["share@dzaaaaaa.com", "oness@dzaaaaaa.com"];
+const userList = ["admin@smduck163.onmicrosoft.com"];
 
 export default userList;
